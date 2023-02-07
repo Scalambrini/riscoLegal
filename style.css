@@ -2,7 +2,7 @@ body{
     display: flex;
     align-items: center;
 
-    background-image: url(fundo_de_tela.png.jpg);
+    background-image: url(../site/fundo_de_tela.jpg);
     background-size: cover;
     width: 100%;
 
